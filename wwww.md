@@ -1,0 +1,14 @@
+*404
+[404.js](https://github.com/mauriceaaa/ws108a/blob/master/midterm/app%20copy.js)
+<br>
+<br>
+<br>
+<br>
+*koaserver註解
+[koaserver.js](https://github.com/mauriceaaa/ws108a/blob/master/midterm/404.js)
+<br>
+<br>
+<br>
+<br>
+*httpserver註解
+[httpserver](https://github.com/mauriceaaa/ws108a/blob/master/midterm/httpServer.js)
