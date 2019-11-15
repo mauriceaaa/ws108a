@@ -2,7 +2,7 @@ const http = require('http');  //載入 Node.js 原生模組 http
 
 const port = 3000, hostname = 'localhost'
 
-const server = http.createServer((request, response) =>             // 2 建立server
+const server = http.createServer((request, response) =>             // 建立server
 {
   console.log('url:', request.url);
   console.log('  method:', request.method);                         //在此處理 客戶端向 http server 發送過來的 req。
