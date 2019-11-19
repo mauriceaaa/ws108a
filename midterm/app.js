@@ -20,6 +20,6 @@ app.use(async function(ctx) //將中間內容添加到這個函數
   }
 })
 
-app.listen(3000)   //以http創建伺服器，将設定的参数傳給 Server#listen()
+app.listen(3000)   //以http創建伺服器，將設定的参数傳給 Server#listen()
 console.log('server run at http://localhost:3000/')
 
