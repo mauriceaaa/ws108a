@@ -1,3 +1,7 @@
+*hello註解
+<br>
+[hello.js](https://github.com/mauriceaaa/ws108a/blob/master/midterm/app%20copy.js)
+<br>
 *404
 <br>
 [404.js](https://github.com/mauriceaaa/ws108a/blob/master/midterm/app%20copy.js)
@@ -36,3 +40,10 @@
 *mdserverEdit註解
 <br>
 [mdserverEdit](https://github.com/mauriceaaa/ws108a/blob/master/midterm/mdserverEdit.js)
+<br>
+<br>
+*state註解
+<br>
+[state](https://github.com/mauriceaaa/ws108a/blob/master/midterm/state.js)
+<br>
+謝謝老師
