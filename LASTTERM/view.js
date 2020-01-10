@@ -101,6 +101,21 @@ V.new = function () {
   `)
 }
 
+V.showLogin = function () {
+  return V.layout('登入', `
+  <h2>登入</h2>
+  <form action="/login" method="post">
+    <p><input type="text" placeholder="User" name="user"></p>
+    <p><input type="password" placeholder="Password" name="password"></textarea></p>
+    <p><input type="submit" value="登入"/></p>
+  </form>
+  `)
+}
+
+V.logout = function () {
+  return V.layout('登出成功！', `回到 <a href="/">首頁！</a>`)
+} 
+
 V.show = function (post) {
   return V.layout(post.title, `
   <p><a href="/edit/${post.id}">編輯</a></p>
